@@ -25,8 +25,6 @@ A Python-based file management tool designed to clean up old files in the "Finvi
 
 ## Installation
 
-1. ** Download and Run the main.exe file
-2. ** Success
 
 ## Usage
 
